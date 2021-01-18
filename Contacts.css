@@ -1,0 +1,13 @@
+#backimg{
+    background-image: url(Images/PizzaFON.jpg);
+
+}
+#contacts{
+    background-image: url(Images/black-wooden-background-old-wooden-texture_88281-3221.jpg);
+    width: 40%;
+    font-size: calc(5px + 1.5vw);
+    text-align: center;
+    margin-left: 25%;
+    color:White
+    
+}

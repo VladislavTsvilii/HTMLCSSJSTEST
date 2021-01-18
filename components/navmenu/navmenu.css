@@ -1,0 +1,31 @@
+.header-container {
+    display: flex;
+    height: 59px;
+    padding: var(--spacing-small);
+    background-image: url(img/black-wooden-background-old-wooden-texture_88281-3221.jpg);
+    color: white;
+}
+
+.header-counter{
+    margin-left: auto;
+    padding-right: var(--spacing-small);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tomain{
+    background-image: url(img/eda_pizza.jpg);
+    position:absolute;
+    margin-right: 95%;
+    margin-top: -4px;
+    width: 30px;
+    height: 30px;
+    top: 20px;
+    right: 20px;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: contain;
+    cursor: pointer;
+    
+    
+}
